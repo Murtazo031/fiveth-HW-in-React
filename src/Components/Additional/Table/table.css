@@ -1,0 +1,20 @@
+.table {
+    font-weight: 700;
+    width: 70%;
+    background-color: #fff;
+    border-radius: 15px;
+    /* border-collapse: collapse; */
+    padding: 2vh;
+}
+.table th {
+    color: #38BFF2;
+    font-size: 12px;
+    text-align: start;
+    padding: 2vh;
+}
+.table td {
+    background-color: lightgrey;
+    padding: 2vh;
+    border-radius: 5vh;
+    border-collapse: collapse;
+}

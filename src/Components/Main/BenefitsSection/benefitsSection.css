@@ -1,0 +1,36 @@
+.whatTach {
+  text-align: center;
+  font-size: 38px;
+}
+.benefits {
+  width: 80%;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #EAF2F5;
+  border-radius: 20px;
+  padding: 8vh;
+  padding-bottom: 0;
+}
+.benefits .left {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 3vh;
+    width: 45%;
+}
+.benefits .left p {
+    font-size: 24px;
+    font-weight: 600;
+}
+.learndiv {
+    width: 80%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 3vh;
+    text-align: center;
+}

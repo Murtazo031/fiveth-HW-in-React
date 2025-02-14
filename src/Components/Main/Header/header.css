@@ -1,0 +1,29 @@
+header {
+    background-color: lightgrey;
+    padding: 3vh 2vh;
+}
+
+navbar {
+    width: 80%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #fff;
+    padding: 1vh 2vh;
+    border-radius: 35px;
+}
+ul {
+    width: 50%;
+    display: flex;
+    list-style: none;
+    padding: 0;
+    font-size: 16px;
+    color: grey;
+    gap: 8vh;
+}
+.reg {
+    display: flex;
+    gap: 2vh;
+    font-size: 16px;
+}
